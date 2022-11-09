@@ -1,0 +1,8 @@
+In questo pack vanno salvate tutte quelle classi dove vengono inseriti i dati da gestire ( es. classe Costumer o MTG_Card).
+
+
+- Collegare il db al programma e far in modo che carte e deck vengano scritti sul db.
+
+- Eseguire tutti gli update necessari per interfacciare il programma con il db.
+	- Applicare il modello MVC : far passare il caricamento dei dati per il controller quindi vedere dove scrivere i metodi
+	  per il caricamento/scrittura/ cancellazione dei dati del db.

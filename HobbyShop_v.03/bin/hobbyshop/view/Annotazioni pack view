@@ -1,0 +1,27 @@
+All'intero di questo pack vanno tenuti tutte le classi che rapresentano cio che l'utente andra
+a visualizzare ( classi es JFrame, JPanel,), quello che dovrebbe essere la parte front end del programma
+	
+Miglioramenti :
+
+	Annotiazioni per creare eventuali classi figlie:
+		
+		- Commander: metodi che sono propri di questa classe :
+						- toArray_InCommander(); ( contenuta nella classe MTG_Card)
+						- dataViewCards_CommanderDecks(); ( contenuta nella classe New_Sample_Panel)
+					
+
+	
+TO DO LIST
+
+- inserie la funzione cerca
+- Finestra Inserimento nuova carta : menu popup con le opzioni :
+	- possibilità di cancellare la carta
+	
+
+- Finestra Nuovo deck:
+
+
+- Finestra Modifica deck:
+	- quantità di carte presenti all'interno del deck (funzione poi condivisa anche con la finestra nuovo deck): far in modo che si veda la quantità in base al deck es. se 
+	  il formato è commander solo 1 carta altrimenti consentire la presenza multipla.
+
